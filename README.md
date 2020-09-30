@@ -1,4 +1,4 @@
-# InnoSetup-CONTROLS
+# InnoSetup CONTROLS
 If you are starting your adventure with the [code] of InnoSetup, or you just don't remember all the controls where they are belongs.<br>
 <br>
 You can use my sample named DEMO, to get the information about InnoSetup controls in a simple way.<br>

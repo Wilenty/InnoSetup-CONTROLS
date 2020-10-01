@@ -19,4 +19,6 @@ Of course, the colors can be changed from the command line. I prepared a sample 
 <br>
 I hope that this sample will help for all users, who want to improve/extend the [code] of the installer, or just simply find information of an element in the InnoSetup installer.<br>
 <br>
+Added context help for the UserInfoSerial, if you can't get the right SN, right-click on that control.<br>
+<br>
 If my work helped you in any way, please support my work also :-)<br>

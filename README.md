@@ -1,5 +1,5 @@
 # InnoSetup CONTROLS
-<p><b>2023.05.01</b>: Added the possibility (specified from command-line) to examine only one page of the InnoSetup installer (command-line parameter: /OnePage=?). Please look at the example *.cmd script (included).</p>
+<p><b>2023.05.01</b>: Added the possibility (specified from command-line) to examine only one page of the InnoSetup installer (command-line parameter: /OnePage=?). Please look at the included example *.cmd script.</p>
 <p>---</p>
 If you are starting your adventure with the [code] of InnoSetup, or you just don't know/remember any the control(s) where they'are belongs.<br>
 <br>

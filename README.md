@@ -1,4 +1,7 @@
 # InnoSetup CONTROLS
+<p><b>2023.05.02</b>: Added that the installer shows after the title the page name and its number in parentheses:</p>
+<img src="https://cdn.discordapp.com/attachments/645144950672982027/1103027195036827648/InnoSetup_CONTROLS_-_2.1.png"></img>
+<p>---</p>
 <p><b>2023.05.01</b>: Added the possibility (specified from command-line) to examine only one page of the InnoSetup installer (command-line parameter: /OnePage=?). Please look at the included example *.cmd script.</p>
 <p>---</p>
 If you are starting your adventure with the [code] of InnoSetup, or you just don't know/remember any of the control(s) where they'are belongs...<br>

@@ -1,4 +1,9 @@
 # InnoSetup CONTROLS
+
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-CONTROLS.svg)](https://github.com/Wilenty/InnoSetup-CONTROLS/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-CONTROLS/total.svg)](https://github.com/Wilenty/InnoSetup-CONTROLS/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-CONTROLS/latest/total.svg)](https://github.com/Wilenty/InnoSetup-CONTROLS/releases/latest)
+
 <p><b>2023.05.02</b>: Added that the installer shows after the title the page name and its number in parentheses:</p>
 <img src="https://cdn.discordapp.com/attachments/645144950672982027/1103027195036827648/InnoSetup_CONTROLS_-_2.1.png"></img>
 <p>---</p>
